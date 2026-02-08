@@ -71,4 +71,3 @@ Təqdimatda olan datalar “dövlət stastistika komitəsin”dən götürülüb
 
 
 
-
