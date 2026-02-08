@@ -64,8 +64,9 @@ TAP (Trans Adriatic Pipeline) və TANAP(Trans Anatolian Natural Gas Pipeline) k�
 Hesabatın hazırlanması:
 
 Təqdimatda olan datalar “dövlət stastistika komitəsin”dən götürülüb. Datanı əldə etdikdən sonra “null” dəyərlər, lazımsız datalar silinib və sonda isə, struktur düzgün halla salınıb. Təqdimatın hazırlanmasında əsasən “Excel” və “Power Bı”-dan ıstıfadə olunub.
-<img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/ce3afceb-0261-4a64-b6c2-b32c936f8b97" />
-<img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/376c71ad-fc9b-44a9-bd3a-ad008f2ca46b" />
+<img width="600" height="300" alt="Təqdimat2" src="https://github.com/user-attachments/assets/65c5c7e2-9d06-4124-899a-1ee56ba1c8f8" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/ce3afceb-0261-4a64-b6c2-b32c936f8b97" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/376c71ad-fc9b-44a9-bd3a-ad008f2ca46b" />
 
 
 
