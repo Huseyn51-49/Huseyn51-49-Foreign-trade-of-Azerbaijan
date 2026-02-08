@@ -70,4 +70,3 @@ Təqdimatda olan datalar “dövlət stastistika komitəsin”dən götürülüb
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/376c71ad-fc9b-44a9-bd3a-ad008f2ca46b" />
 
 
-
